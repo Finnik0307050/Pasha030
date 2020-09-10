@@ -1,2 +1,7 @@
-# Pasha030
-ИСиТ 2курс 3группа Бобров Павел Аркадьевич 
+# Bobrov Pavel 
+
+
+- I study at BSTU 
+- On the specialty ISIT
+- 3rd group 2nd course
+
