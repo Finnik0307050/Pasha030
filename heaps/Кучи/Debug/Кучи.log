@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\с++\Кучи\Кучи\Source.cpp(142,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\с++\Кучи\Кучи\Source.cpp(156,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Кучи.vcxproj -> D:\с++\Кучи\Debug\Кучи.exe
